@@ -1,4 +1,4 @@
-<img src="[https://github.com/navedahemadkhan/navedahemadkhan/blob/main/banner_lin.png](https://github.com/atmehedi/atmehedi/blob/main/banner.jpg)" alt="Description of the image">
+<img src="https://github.com/atmehedi/atmehedi/blob/main/banner.jpg" alt="Description of the image">
 
 <h1 align="center">Hi 👋, I'm A T Mehedi Hassan</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
